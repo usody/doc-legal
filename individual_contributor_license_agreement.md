@@ -2,7 +2,7 @@
 
 Project Name: Usody
 
-Project Entity: In this document we refer as (the "Project") as the set of individuals formed by David Franquesa, Jordi Nadeu and Stephan Fortelny
+Project Entity: In this document we refer as (the "Project") as the set of individuals formed by David Franquesa, Jordi Nadeu, Adrià Sánchez and Stephan Fortelny
 
 Project Repository Site: https://github.com/usody
 
